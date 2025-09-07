@@ -9,7 +9,7 @@ int main()
     {
         for (int k = n-i-1 ; k>=0 ; k-- )
         {
-            cout<<"   ";
+            cout<<"  ";
         }
 
         for(int j=1;j<=i;j++)

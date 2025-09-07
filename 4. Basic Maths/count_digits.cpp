@@ -30,20 +30,20 @@ int main()
 
 
 //my own code
-int main()
-{
+// int main()
+// {
 
-    int n = 1232;
+//     int n = 1232;
 
-    int count = 0;
+//     int count = 0;
 
-    while (n>0)
-    {
-        n = n/10;
-        count++;
-    }
+//     while (n>0)
+//     {
+//         n = n/10;
+//         count++;
+//     }
 
-    cout<<count;
+//     cout<<count;
     
-    return 0;
-}
+//     return 0;
+// }
